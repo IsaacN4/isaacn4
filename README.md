@@ -1,3 +1,4 @@
+![Coding picture](https://github.com/IsaacN4/isaacn4/blob/ac0e16e0748df5f117f8460bb1892aa655a52c35/developer-8829711_1920.jpg)
 ## About me
 <h3 align="center">A passionate software development student based in Winnipeg, Canada</h3>
 
